@@ -1,0 +1,32 @@
+{
+  "templates": [
+    {
+      "displayName": "Donna",
+      "file": "Donna"
+    },
+    {
+      "displayName": "Fred",
+      "file": "Fred"
+    },
+    {
+      "displayName": "Gary",
+      "file": "Gary"
+    },
+    {
+      "displayName": "Glenn",
+      "file": "Glenn"
+    },
+    {
+      "displayName": "Liette",
+      "file": "Liette"
+    },
+    {
+      "displayName": "Lillian",
+      "file": "Lillian"
+    },
+    {
+      "displayName": "Matti",
+      "file": "Matti"
+    }
+  ]
+}
