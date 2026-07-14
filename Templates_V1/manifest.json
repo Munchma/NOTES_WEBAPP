@@ -1,8 +1,20 @@
 {
   "templates": [
     {
+      "displayName": "Brian",
+      "file": "Brian"
+    },
+    {
+      "displayName": "Donald",
+      "file": "Donald"
+    },
+    {
       "displayName": "Donna",
       "file": "Donna"
+    },
+    {
+      "displayName": "Edward",
+      "file": "Edward"
     },
     {
       "displayName": "Fred",
