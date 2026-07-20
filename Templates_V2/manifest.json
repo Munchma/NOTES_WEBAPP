@@ -1,0 +1,70 @@
+{
+  "templates": [
+    {
+      "displayName": "Brian",
+      "sourceTemplateName": "Brian_V2",
+      "version": "V2",
+      "file": "Brian_V2"
+    },
+    {
+      "displayName": "Donald",
+      "sourceTemplateName": "Donald_V2",
+      "version": "V2",
+      "file": "Donald_V2"
+    },
+    {
+      "displayName": "Donna",
+      "sourceTemplateName": "Donna_V2",
+      "version": "V2",
+      "file": "Donna_V2"
+    },
+    {
+      "displayName": "Edwin",
+      "sourceTemplateName": "Edwin_V2",
+      "version": "V2",
+      "file": "Edwin_V2"
+    },
+    {
+      "displayName": "Fred",
+      "sourceTemplateName": "Fred_V2",
+      "version": "V2",
+      "file": "Fred_V2"
+    },
+    {
+      "displayName": "Gary",
+      "sourceTemplateName": "Gary_V2",
+      "version": "V2",
+      "file": "Gary_V2"
+    },
+    {
+      "displayName": "Glenn",
+      "sourceTemplateName": "Glenn_V2",
+      "version": "V2",
+      "file": "Glenn_V2"
+    },
+    {
+      "displayName": "Liette",
+      "sourceTemplateName": "Liette_V2",
+      "version": "V2",
+      "file": "Liette_V2"
+    },
+    {
+      "displayName": "Lillian",
+      "sourceTemplateName": "Lillian_V2",
+      "version": "V2",
+      "file": "Lillian_V2"
+    },
+    {
+      "displayName": "Matti",
+      "sourceTemplateName": "Matti_V2",
+      "version": "V2",
+      "file": "Matti_V2"
+    },
+    {
+      "displayName": "Maurice",
+      "sourceTemplateName": "Maurice_V2",
+      "version": "V2",
+      "file": "Maurice_V2"
+    }
+  ]
+}
