@@ -1,4 +1,5 @@
 O:
+
 [date]
 Time Arrived: [time]
 Status of Environment: Safe. Clean.
@@ -12,23 +13,29 @@ Verbal Consent: Obtained
 A:
 
 Treatment plan provided by the PT, E.D.L.H.:
+|                 Prescribed by PT                 |               Performed Today                |
+| Exercise                                | PT Rx  | Sets | Reps | Hold | Equipment | Difficulty* |
+| --------------------------------------- | ------ | ---- | ---- | ---- | --------- | ----------- |
+| Sciatic Nerve Flossing                  | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Sit to stand                            | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Seated marching                         | 2 × 10 | 2    | 10   | 1s   | —         | —           |
+| Low-seat partial arc quad               | 2 × 10 | 2    | 10   | 1s   | —         | —           |
+| Seated B/L clam shells                  | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Seated pillow squeeze                   | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Seated straight-leg hip abduction       | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Countertop lateral weight shift         | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Standing COUNTERTOP Left Hip Flex       | 1 × 5+ | 1    | 5+   | 1s   | —         | —           |
+| Standing COUNTERTOP Left Hip Abduction  | 1 × 5+ | 1    | 5+   | 1s   | —         | —           |
+| Standing COUNTERTOP Left Hamstring Curl | 1 × 5+ | 1    | 5+   | 1s   | —         | —           |
 
-| Exercise / Prescription                                   | Sets | Reps | Hold | Equipment / Support |
-| --------------------------------------------------------- | ---- | ---- | ---- | ------------------- |
-| Sciatic Nerve Flossing 1 set x 10 reps                    | 1    | 10   | —    | —                   |
-| SIT TO STAND 1 set x 10 reps                              | 1    | 10   | —    | —                   |
-| SEATED MARCHING HIP FLEXION 2 set x 10 reps               | 2    | 10   | —    | —                   |
-| PARTIAL ARC QUAD LOW SEAT KNEE EXTENSION 2 sets x 10 reps | 2    | 10   | —    | —                   |
-| BILATERAL- SEATED CLAM SHELLS 1 set x 10 reps             | 1    | 10   | —    | —                   |
-| SEATED PILLOW SQUEEZE 1 set x 10 reps                     | 1    | 10   | —    | PILLOW              |
-| HIP ABDUCTION SINGLE SEATED STRAIGHT LEG 1 set x 10 reps  | 1    | 10   | —    | —                   |
-| COUNTERTOP WEIGHT BEAR SHIFT Right to Left x 10 reps      | —    | 10   | —    | COUNTERTOP          |
-| Standing COUNTERTOP Left Hip Flex 1 set x 5+ reps         | 1    | 5+   | —    | COUNTERTOP          |
-| Standing COUNTERTOP Left Hip Abduction 1 set x 5+ reps    | 1    | 5+   | —    | COUNTERTOP          |
-| Standing COUNTERTOP Left Hamstring Curl 1 set x 5+ reps   | 1    | 5+   | —    | COUNTERTOP          |
+Program notes:
+- None documented.
+
+----------
+
+* Difficulty is patient-reported: 1 very easy, 3 moderate, 5 very hard.
 
 R:
-
 Status of Program: Completed prescribed exercise program as tolerated.
 Tolerance: Patient is tolerating program well. Continued education about UE band exercises + muscle activation.
 How the client was left: Standing at the top of the entryway staircase with 4 wheel walker.

@@ -1,4 +1,5 @@
 O:
+
 [date]
 Time Arrived: [time]
 Status of Environment: Safe. Clean. Ample space for 4 wheel walker.
@@ -15,46 +16,56 @@ A:
 Treatment plan provided by the PT, E.D.L.H.:
 
 Grip Strength Exercises (Progress > Increase sets):
+|        Prescribed by PT       |               Performed Today                |
+| Exercise             | PT Rx  | Sets | Reps | Hold | Equipment | Difficulty* |
+| -------------------- | ------ | ---- | ---- | ---- | --------- | ----------- |
+| Tendon Glides        | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Ball Flat Grip       | 1 × 10 | 1    | 10   | 5s   | —         | —           |
+| Ball Hook Grip       | 1 × 10 | 1    | 10   | 3s   | —         | —           |
+| Towel Key Grip Pinch | 1 × 10 | 1    | 10   | 3s   | —         | —           |
 
-| Exercise / Prescription                         | Sets | Reps | Hold     | Equipment / Support |
-| ----------------------------------------------- | ---- | ---- | -------- | ------------------- |
-| Tendon Glides / 1 set x 10 reps                 | 1    | 10   | —        | —                   |
-| Ball Flat Grip / 1 x [10 x 5 second hold]       | 1    | —    | 5 second | Ball                |
-| Ball Hook Grip / 1 x [10 x 3 second hold]       | 1    | —    | 3 second | Ball                |
-| Towel Key Grip Pinch / 1 x [10 x 3 second hold] | 1    | —    | 3 second | Towel               |
 
 Geriatric Band Upper Extremity ROM (Progress > Increase sets):
+|                     Prescribed by PT                    |               Performed Today                |
+| Exercise                                       | PT Rx  | Sets | Reps | Hold | Equipment | Difficulty* |
+| ---------------------------------------------- | ------ | ---- | ---- | ---- | --------- | ----------- |
+| Elastic Band Chest Press                       | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Elastic Band External Rotation                 | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Seated Banded Row                              | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Elastic Band Chest Press - Alternating Punches | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Elastic Band Triceps Extension                 | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Elastic Band Bicep Curls                       | 1 × 10 | 1    | 10   | 1s   | —         | —           |
 
-| Exercise / Prescription                                          | Sets | Reps | Hold | Equipment / Support |
-| ---------------------------------------------------------------- | ---- | ---- | ---- | ------------------- |
-| Elastic Band Chest Press / 1 set x 10 reps                       | 1    | 10   | —    | —                   |
-| Elastic Band External Rotation / 1 set x 10 reps                 | 1    | 10   | —    | —                   |
-| Seated Banded Row / 1 set x 10 reps                              | 1    | 10   | —    | —                   |
-| Elastic Band Chest Press - Alternating Punches / 1 set x 10 reps | 1    | 10   | —    | —                   |
-| Elastic Band Triceps Extension / 1 set x 10 reps                 | 1    | 10   | —    | —                   |
-| Elastic Band Bicep Curls / 1 set x 10 reps                       | 1    | 10   | —    | —                   |
 
 Standing AROM for Lower Extremities:
+|             Prescribed by PT             |               Performed Today                |
+| Exercise                        | PT Rx  | Sets | Reps | Hold | Equipment | Difficulty* |
+| ------------------------------- | ------ | ---- | ---- | ---- | --------- | ----------- |
+| Standing Marching - Hip Flexion | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Standing Hamstring Curls        | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Sit to Stand                    | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Hip Extension - Standing        | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Hip Flexion - Standing - SLR    | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Heel Raises - Standing          | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Toes Raises - Standing          | 1 × 10 | 1    | 10   | 1s   | —         | —           |
 
-| Exercise / Prescription                           | Sets | Reps | Hold | Equipment / Support |
-| ------------------------------------------------- | ---- | ---- | ---- | ------------------- |
-| Standing Marching - Hip Flexion / 1 set x 10 reps | 1    | 10   | —    | —                   |
-| Standing Hamstring Curls / 1 set x 10 reps        | 1    | 10   | —    | —                   |
-| Sit to Stand / 1 set x 10 reps                    | 1    | 10   | —    | —                   |
-| Hip Extension - Standing / 1 set x 10 reps        | 1    | 10   | —    | —                   |
-| Hip Flexion - Standing - SLR / 1 set x 10 reps    | 1    | 10   | —    | —                   |
-| Heel Raises - Standing / 1 set x 10 reps          | 1    | 10   | —    | —                   |
-| Toes Raises - Standing / 1 set x 10 reps          | 1    | 10   | —    | —                   |
 
 Standing Basic Balance:
+|                     Prescribed by PT                     |               Performed Today                |
+| Exercise                                        | PT Rx  | Sets | Reps | Hold | Equipment | Difficulty* |
+| ----------------------------------------------- | ------ | ---- | ---- | ---- | --------- | ----------- |
+| Single Leg Stance - SLS                         | 1 × 10 | 1    | 10   | 10s  | —         | —           |
+| Tandem Stance with Support                      | 1 × 10 | 1    | 10   | 10s  | —         | —           |
+| Standing Forward Reach                          | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Eyes Closed                                     | 1 sets | 1    | —    | 1s   | —         | —           |
+| Tandem Walking with One Upper Extremity Support | 1 × 6  | 1    | 6    | 10s  | —         | —           |
 
-| Exercise / Prescription                                                    | Sets | Reps | Hold      | Equipment / Support |
-| -------------------------------------------------------------------------- | ---- | ---- | --------- | ------------------- |
-| Single Leg Stance - SLS / 1 x [10 x 10 second hold]                        | 1    | —    | 10 second | —                   |
-| Tandem Stance with Support / 1 x [10 x 10 second hold]                     | 1    | —    | 10 second | —                   |
-| Standing Forward Reach / 1 x [10 reaches]                                  | 1    | 10   | —         | —                   |
-| Eyes Closed (With Supervision Only)                                        | —    | —    | —         | —                   |
-| Tandem Walking with One Upper Extremity Support / 1 x [6 x 10 second hold] | 1    | —    | 10 second | —                   |
+Program notes:
+- None documented.
+
+----------
+
+* Difficulty is patient-reported: 1 very easy, 3 moderate, 5 very hard.
 
 R:
 Status of Program: Completed program as tolerated + progression to 2 sets + increased hold times.
