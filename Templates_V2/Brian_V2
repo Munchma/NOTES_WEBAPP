@@ -1,4 +1,5 @@
 O:
+
 [date]
 Time Arrived: [time]
 Status of Environment: Safe. Clean. With partner.
@@ -15,33 +16,42 @@ A:
 Treatment plan provided by the PT, A.K.
 
 Standing exercises (progressing towards 15 reps):
+|           Prescribed by PT          |               Performed Today                |
+| Exercise                   | PT Rx  | Sets | Reps | Hold | Equipment | Difficulty* |
+| -------------------------- | ------ | ---- | ---- | ---- | --------- | ----------- |
+| Marching                   | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Standing B/L hip abduction | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Standing B/L hip extension | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Standing B/L knee flexion  | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| B/L heel raises            | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Partial squats             | 1 × 10 | 1    | 10   | 1s   | —         | —           |
 
-| Exercise / Prescription                          | Sets | Reps | Hold | Equipment / Support |
-| ------------------------------------------------ | ---- | ---- | ---- | ------------------- |
-| Marching x 10 reps progress to 15 reps.          | —    | 10   | —    | —                   |
-| B/L Hip Abduction x 10 reps progress to 15 reps. | —    | 10   | —    | —                   |
-| B/L Hip Extension x 10 reps progress to 15 reps. | —    | 10   | —    | —                   |
-| B/L Knee flexion x 10 reps progress to 15 reps.  | —    | 10   | —    | —                   |
-| B/L Heel raises x 10 reps progress to 15 reps.   | —    | 10   | —    | —                   |
-| Partial squats x 10 reps.                        | —    | 10   | —    | —                   |
 
 Seated Exercises:
+|       Prescribed by PT      |               Performed Today                |
+| Exercise           | PT Rx  | Sets | Reps | Hold | Equipment | Difficulty* |
+| ------------------ | ------ | ---- | ---- | ---- | --------- | ----------- |
+| B/L long arc quads | 1 × 10 | 1    | 10   | 5s   | —         | —           |
+| Seated Clamshells  | 2 × 10 | 2    | 10   | 1s   | Y         | —           |
 
-| Exercise / Prescription                                    | Sets | Reps | Hold   | Equipment / Support |
-| ---------------------------------------------------------- | ---- | ---- | ------ | ------------------- |
-| B/L Long arc quads x 5 secs hold x 10 reps each.           | —    | 10   | 5 secs | —                   |
-| Seated Clamshells x 10 reps 2 sets using yellow TheraBand. | 2    | 10   | —      | yellow TheraBand    |
 
 UE Strength Exercises (Yellow TBand):
+|      Prescribed by PT      |               Performed Today                |
+| Exercise          | PT Rx  | Sets | Reps | Hold | Equipment | Difficulty* |
+| ----------------- | ------ | ---- | ---- | ---- | --------- | ----------- |
+| B/L GHJ Flexion   | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Abduction         | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| External rotators | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Chest press       | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| B/L Elbow flexors | 1 × 10 | 1    | 10   | 1s   | —         | —           |
+| Extensors         | 1 × 10 | 1    | 10   | 1s   | —         | —           |
 
-| Exercise / Prescription      | Sets | Reps | Hold | Equipment / Support |
-| ---------------------------- | ---- | ---- | ---- | ------------------- |
-| B/L GHJ Flexion x 10 reps.   | —    | 10   | —    | —                   |
-| Abductionx 10 reps.          | —    | 10   | —    | —                   |
-| External rotators x 10 reps. | —    | 10   | —    | —                   |
-| Chest press x 10 reps.       | —    | 10   | —    | —                   |
-| B/L Elbow flexors x 10 reps. | —    | 10   | —    | —                   |
-| Extensors x 10 reps.         | —    | 10   | —    | —                   |
+Program notes:
+- None documented.
+
+----------
+
+* Difficulty is patient-reported: 1 very easy, 3 moderate, 5 very hard.
 
 R:
 Status of Program: Completed program as tolerated + progression to 2 sets + increased hold times.
