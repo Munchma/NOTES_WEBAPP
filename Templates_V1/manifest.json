@@ -2,43 +2,69 @@
   "templates": [
     {
       "displayName": "Brian",
-      "file": "Brian"
+      "sourceTemplateName": "Brian_V1",
+      "version": "V1",
+      "file": "Brian_V1"
     },
     {
       "displayName": "Donald",
-      "file": "Donald"
+      "sourceTemplateName": "Donald_V1",
+      "version": "V1",
+      "file": "Donald_V1"
     },
     {
       "displayName": "Donna",
-      "file": "Donna"
+      "sourceTemplateName": "Donna_V1",
+      "version": "V1",
+      "file": "Donna_V1"
     },
     {
       "displayName": "Edwin",
-      "file": "Edwin"
+      "sourceTemplateName": "Edwin_V1",
+      "version": "V1",
+      "file": "Edwin_V1"
     },
     {
       "displayName": "Fred",
-      "file": "Fred"
+      "sourceTemplateName": "Fred_V1",
+      "version": "V1",
+      "file": "Fred_V1"
     },
     {
       "displayName": "Gary",
-      "file": "Gary"
+      "sourceTemplateName": "Gary_V1",
+      "version": "V1",
+      "file": "Gary_V1"
     },
     {
       "displayName": "Glenn",
-      "file": "Glenn"
+      "sourceTemplateName": "Glenn_V1",
+      "version": "V1",
+      "file": "Glenn_V1"
     },
     {
       "displayName": "Liette",
-      "file": "Liette"
+      "sourceTemplateName": "Liette_V1",
+      "version": "V1",
+      "file": "Liette_V1"
     },
     {
       "displayName": "Lillian",
-      "file": "Lillian"
+      "sourceTemplateName": "Lillian_V1",
+      "version": "V1",
+      "file": "Lillian_V1"
     },
     {
       "displayName": "Matti",
-      "file": "Matti"
+      "sourceTemplateName": "Matti_V1",
+      "version": "V1",
+      "file": "Matti_V1"
+    },
+    {
+      "displayName": "Maurice",
+      "sourceTemplateName": "Maurice_V1",
+      "version": "V1",
+      "file": "Maurice_V1"
     }
   ]
 }
