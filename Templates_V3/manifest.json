@@ -1,0 +1,94 @@
+{
+  "templates": [
+    {
+      "displayName": "Berend",
+      "sourceTemplateName": "Berend_V3",
+      "version": "V3",
+      "file": "Berend_V3"
+    },
+    {
+      "displayName": "Brian",
+      "sourceTemplateName": "Brian_V3",
+      "version": "V3",
+      "file": "Brian_V3"
+    },
+    {
+      "displayName": "Donald",
+      "sourceTemplateName": "Donald_V3",
+      "version": "V3",
+      "file": "Donald_V3"
+    },
+    {
+      "displayName": "Donna",
+      "sourceTemplateName": "Donna_V3",
+      "version": "V3",
+      "file": "Donna_V3"
+    },
+    {
+      "displayName": "Edwin",
+      "sourceTemplateName": "Edwin_V3",
+      "version": "V3",
+      "file": "Edwin_V3"
+    },
+    {
+      "displayName": "Fred",
+      "sourceTemplateName": "Fred_V3",
+      "version": "V3",
+      "file": "Fred_V3"
+    },
+    {
+      "displayName": "Gary",
+      "sourceTemplateName": "Gary_V3",
+      "version": "V3",
+      "file": "Gary_V3"
+    },
+    {
+      "displayName": "Glenn",
+      "sourceTemplateName": "Glenn_V3",
+      "version": "V3",
+      "file": "Glenn_V3"
+    },
+    {
+      "displayName": "Karyn",
+      "sourceTemplateName": "Karyn_V3",
+      "version": "V3",
+      "file": "Karyn_V3"
+    },
+    {
+      "displayName": "Katherine",
+      "sourceTemplateName": "Katherine_V3",
+      "version": "V3",
+      "file": "Katherine_V3"
+    },
+    {
+      "displayName": "Liette",
+      "sourceTemplateName": "Liette_V3",
+      "version": "V3",
+      "file": "Liette_V3"
+    },
+    {
+      "displayName": "Lillian",
+      "sourceTemplateName": "Lillian_V3",
+      "version": "V3",
+      "file": "Lillian_V3"
+    },
+    {
+      "displayName": "Matti",
+      "sourceTemplateName": "Matti_V3",
+      "version": "V3",
+      "file": "Matti_V3"
+    },
+    {
+      "displayName": "Maurice",
+      "sourceTemplateName": "Maurice_V3",
+      "version": "V3",
+      "file": "Maurice_V3"
+    },
+    {
+      "displayName": "Paul",
+      "sourceTemplateName": "Paul_V3",
+      "version": "V3",
+      "file": "Paul_V3"
+    }
+  ]
+}
